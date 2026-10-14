@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.DescarGato" parent="android:Theme.DeviceDefault.NoActionBar" />
+</resources>
